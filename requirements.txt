@@ -2,3 +2,5 @@ jupyter
 scikit-learn
 pandas
 eli5
+matplotlib
+statsmodels
