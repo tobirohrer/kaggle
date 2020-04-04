@@ -4,3 +4,5 @@ pandas
 eli5
 matplotlib
 statsmodels
+fbprophet
+seaborn
